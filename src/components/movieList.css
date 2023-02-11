@@ -1,0 +1,23 @@
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin: 3rem;
+    background-color: transparent;
+}
+
+.table-head {
+    font-family: "bold";
+    background-color: brown;
+}
+
+.table-body {
+    background-color: beige;
+}
+
+.movies-header {
+    background: rgb(185 38 38 / 20%);
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 15%;
+}

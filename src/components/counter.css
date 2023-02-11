@@ -1,0 +1,21 @@
+button {
+    margin: 5px;
+    padding: 5px;
+}
+
+.inc-button {
+    background-color: aqua;
+    transition: all 0.5s ease-in-out;
+}
+
+.dec-button {
+    background-color: blueviolet;
+}
+
+.del-button {
+    background-color: red;
+}
+
+.inc-button:active {
+    transform: scale(1.5);
+}

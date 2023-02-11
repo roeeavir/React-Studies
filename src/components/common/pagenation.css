@@ -1,0 +1,7 @@
+.page-item {
+    background: aqua;
+}
+
+.page-item-active {
+    background: red;
+}
